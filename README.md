@@ -9,14 +9,18 @@
 
 Allen Wang again, who made [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) project in the year of begin. Long time no see, folks🙌
 
-Now I made a lot of simple tutorials about how to make icons with [Sketch](https://sketchapp.com/). Sketch is a great and lightweight tool to quick start make icons.
+I have posted some simple gif tutorials about how to make icons with [Sketch](https://sketchapp.com/) on Twitter and Weibo one month ago, got a lot of wonderful feedbacks, particularly form developers, they were really following my steps and start to use [Sketch](https://sketchapp.com/), they don't need always to rely on designers.
+
+The purpose to open source this project is hopefully can invite more designers join, create more .gif tutorials and .svg icons for anyone can learn and download.
 
 [Sketch source file](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Icon%20set.sketch) was attached.
 
 ## Open Design ##
-Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future.
+Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future. Believe me ,it was a lot of fun.
 
 ### Requirement(Pull request) ###
+
+Create a new folder suffixed by your name, like 'Svg and gif - Allenwang'.
 
 90*90 Black Solid SVG Icon, refer to [The Noun Project guideline](https://thenounproject.zendesk.com/hc/en-us/articles/200769903-Design-Technical-Guidelines).
 
