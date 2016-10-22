@@ -11,6 +11,8 @@ Allen Wang again, who made [30 Days of Swift](https://github.com/allenwong/30Day
 
 Now I made a lot of simple tutorials about how to make icons with [Sketch](https://sketchapp.com/). Sketch is a great and lightweight tool to quick start make icons.
 
+[Sketch source file](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Icon%20set.sketch) was attached.
+
 ## Open Design ##
 Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future.
 
@@ -162,7 +164,9 @@ Awesome Icon Designer [Kyle Adams](https://twitter.com/ItsKyleAdams) and his dai
 
 ## License ##
 
- All icons published on this [Make Icons With Sketch](https://github.com/allenwong/MakeIconsWithSketch) are licensed under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) which means you can copy, modify, distribute and use the icons for free, including commercial purposes, without asking permission from or providing attribution to the designer.
+ All icons published on [Make Icons With Sketch](https://github.com/allenwong/MakeIconsWithSketch) are licensed under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), which means you can copy, modify, distribute and use the icons for free, including commercial purposes, without asking permission from or providing attribution to the designer.
+
+ But Add a line of 'Thanks to MakeIconsWithSketch' in your project would great.
 
 ## Reach me ##
 
