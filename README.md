@@ -1,6 +1,6 @@
 # Make Icons With Sketch
 
-![Alt text](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/project%20logo.png)
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/allenwong/30DaysofSwift)
 [![Twitter Follow](https://img.shields.io/twitter/follow/creativewang.svg?style=social)](https://twitter.com/creativewang)
@@ -11,15 +11,17 @@ I am Allen Wang, a [product designer](https://dribbble.com/openallen) and curren
 
 This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100 Days of Swift](http://samvlu.com/index.html) project, after read his [Medium post](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ayz5vx6mc) I made a decision to put my every single day to write Swift, this's the final code of 30 tiny Swift projects.
 
-## Project Index & GIF Showcase ##
+## SVG Icon & GIF Tutorial ##
 
-Heart - ![Alt text](https://github.com/allenwong/30DaysofSwift/blob/master/Project%2001%20-%20SimpleStopWatch/Simple%20Stop%20Watch.gif?raw=true)
+Heart - ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
 
-![Alt text](https://github.com/allenwong/30DaysofSwift/blob/master/Project%2001%20-%20SimpleStopWatch/Simple%20Stop%20Watch.gif?raw=true)
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.gif)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart%202.gif)
 
 ## License ##
 
-[Make Icons With Sketch Days](https://github.com/allenwong/MakeIconsWithSketch) is under the MIT license.
+[Make Icons With Sketch](https://github.com/allenwong/MakeIconsWithSketch) is under the MIT license.
 
 ## Reach me ##
 
