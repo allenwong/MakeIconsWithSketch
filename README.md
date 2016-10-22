@@ -16,7 +16,7 @@ Now I made a lot of simple tutorials about how to make icons with [Sketch](https
 ## Open Design ##
 Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future.
 
-Requirement:
+### Requirement(Pull request) ###
 
 90*90 Black Solid SVG Icon, refer to [The Noun Project guideline](https://thenounproject.zendesk.com/hc/en-us/articles/200769903-Design-Technical-Guidelines).
 
