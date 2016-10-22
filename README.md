@@ -13,7 +13,7 @@ This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100
 
 ## SVG Icon & GIF Tutorial ##
 
-Heart - ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
+Heart - ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.gif)
 
