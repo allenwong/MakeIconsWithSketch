@@ -18,7 +18,7 @@ Welcome anyone who have ability to make .svg icon and .gif tutorial, love to fig
 
 Requirement:
 
-90*90 Black Solid SVG Icon, refer to The Noun Project guideline.
+90*90 Black Solid SVG Icon, refer to [The Noun Project guideline](https://thenounproject.zendesk.com/hc/en-us/articles/200769903-Design-Technical-Guidelines).
 
 320*320 GIF Tutorial, I made with [screenFlow](http://screenflow.en.softonic.com/mac) and [Gifrocket](http://www.gifrocket.com/).
 
