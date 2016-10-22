@@ -13,13 +13,29 @@ This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100
 
 ## SVG Icon & GIF Tutorial ##
 
-Heart
-
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.gif)
 
-![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart%202.gif)
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/fullscreen.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/fullscreen.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/music.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/music.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/cloud.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/cloud.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/brightness.svg)
+
+![Brightness](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/brightness.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/lightning.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/lightning.gif)
 
 ## License ##
 
