@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="90px" viewBox="0 0 86 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>bell</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-237.000000, -985.000000)">
+            <g id="bell" transform="translate(235.000000, 985.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M76.1005183,55.1815803 L68.8889721,18.3637396 C67.1961772,8.23137347 57.6250482,0 47.5148571,0 L42.0419913,0 C31.9251935,0 22.362283,8.22172629 20.6678763,18.3637396 L13.4230221,55.3516314 L3.82978723,58.7755102 L2,71.6326531 L88,71.6326531 L86.1702128,58.7755102 L76.1005183,55.1815803 L76.1005183,55.1815803 Z M57.8085106,77.1428571 C57.8085106,84.2436611 52.0739451,90 45,90 C37.9260549,90 32.1914894,84.2436611 32.1914894,77.1428571 L57.8085106,77.1428571 L57.8085106,77.1428571 Z" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

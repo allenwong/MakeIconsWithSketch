@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="90px" viewBox="0 0 64 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>lightning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-848.000000, -384.000000)">
+            <g id="lightning" transform="translate(835.000000, 384.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <polygon fill="#000000" mask="url(#mask-2)" points="49.4466501 38.2337937 55.6666667 -1 13 50.7552173 40.5533499 50.7552173 34.3333333 89.989011 77 38.2337937"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

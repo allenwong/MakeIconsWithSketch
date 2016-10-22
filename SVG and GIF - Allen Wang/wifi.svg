@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="62px" viewBox="0 0 87 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>wifi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0322580645" width="90" height="90.9677419"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-686.000000, -549.000000)">
+            <g id="wifi" transform="translate(685.000000, 534.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(44.457319, 37.164426) rotate(45.000000) translate(-44.457319, -37.164426) translate(16.457319, 8.664426)">
+                        <path d="M56,39.6215054 L56,56.6021505 L39.2,56.6021505 C39.2,47.2239992 46.7216162,39.6215054 56,39.6215054 L56,39.6215054 Z" id="Combined-Shape" stroke="none" fill="#000000" fill-rule="evenodd"></path>
+                        <path d="M56,2.48689958e-14 C25.072054,2.48689958e-14 7.81597009e-14,25.341646 7.81597009e-14,56.6021505" id="Oval" stroke="#000000" stroke-width="9.33333333" fill="none"></path>
+                        <path d="M56,19.8107527 C35.8968351,19.8107527 19.6,36.2828226 19.6,56.6021505" id="Oval-Copy" stroke="#000000" stroke-width="9.33333333" fill="none"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

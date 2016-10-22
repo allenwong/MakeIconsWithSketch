@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="90px" viewBox="0 0 68 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-246.000000, -685.000000)">
+            <g id="flag" transform="translate(235.000000, 685.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M51.6666667,58.6666667 C51.666752,58.666767 57.3333885,65.3333333 64.6666667,65.3333333 C72,65.3333333 79,58.6666667 79,58.6666667 L79,6.66666667 C79,6.66666667 71.8169261,13.3333333 64.6666667,13.3333333 C57.5164073,13.3333333 51.6666667,6.66666667 51.6666667,6.66666667 C51.6664108,6.66636561 45.9998344,-1.42105338e-14 38.6666667,0 C31.3333333,7.10542736e-15 24.3333333,6.66666667 24.3333333,6.66666667 L24.3333333,58.6666667 C24.3333333,58.6666667 31.5164073,52 38.6666667,52 C45.8169261,52 51.6666667,58.6666667 51.6666667,58.6666667 L51.6666667,58.6666667 Z M11,0 L19,0 L19,90 L11,90 L11,0 L11,0 Z" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

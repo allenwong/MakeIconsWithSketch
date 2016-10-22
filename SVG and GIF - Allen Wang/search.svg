@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-692.000000, -692.000000)">
+            <g id="search" transform="translate(685.000000, 685.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M53.8,60.1152801 C67.0369939,57.4425666 77,45.8016803 77,31.8461538 C77,15.914863 64.0162577,3 48,3 C31.9837423,3 19,15.914863 19,31.8461538 C19,45.8016803 28.9630061,57.4425666 42.2,60.1152801 L42.2,87.2227936 C42.2,90.4209171 44.7815332,93 47.9660158,93 L48.0339842,93 C51.225584,93 53.8,90.4134566 53.8,87.2227936 L53.8,60.1152801 L53.8,60.1152801 Z M48,49.1538462 C57.6097546,49.1538462 65.4,41.4049284 65.4,31.8461538 C65.4,22.2873793 57.6097546,14.5384615 48,14.5384615 C38.3902454,14.5384615 30.6,22.2873793 30.6,31.8461538 C30.6,41.4049284 38.3902454,49.1538462 48,49.1538462 L48,49.1538462 Z" fill="#000000" mask="url(#mask-2)" transform="translate(48.000000, 48.000000) rotate(-45.000000) translate(-48.000000, -48.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

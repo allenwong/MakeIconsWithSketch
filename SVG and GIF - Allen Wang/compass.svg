@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>compass</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-1135.000000, -384.000000)">
+            <g id="compass" transform="translate(1135.000000, 384.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M45,90 C69.8528137,90 90,69.8528137 90,45 C90,20.1471863 69.8528137,0 45,0 C20.1471863,0 0,20.1471863 0,45 C0,69.8528137 20.1471863,90 45,90 L45,90 Z M33.9996692,36.5554791 C34.3743035,35.5185786 35.5259258,34.371649 36.5554791,33.9996692 L63.2289987,24.3624707 C65.3116652,23.6099989 66.388582,24.6922626 65.6375293,26.7710013 L56.0003308,53.4445209 C55.6256965,54.4814214 54.4740742,55.628351 53.4445209,56.0003308 L26.7710013,65.6375293 C24.6883348,66.3900011 23.611418,65.3077374 24.3624707,63.2289987 L33.9996692,36.5554791 L33.9996692,36.5554791 Z M45,52 C48.8659932,52 52,48.8659932 52,45 C52,41.1340068 48.8659932,38 45,38 C41.1340068,38 38,41.1340068 38,45 C38,48.8659932 41.1340068,52 45,52 L45,52 Z" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

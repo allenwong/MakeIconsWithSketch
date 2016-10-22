@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="80px" viewBox="0 0 90 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>volume</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+        <path d="M0.5882353,0.29801325 C19.5933282,0.29801325 35,15.7160219 35,34.7350993 C35,53.7541768 19.5933282,69.1721854 0.5882353,69.1721854" id="path-3"></path>
+        <path d="M0.5882353,0.192053 C10.8217468,0.192053 19.1176471,8.4940576 19.1176471,18.7350993 C19.1176471,28.9761411 10.8217468,37.2781457 0.5882353,37.2781457" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-535.000000, -539.000000)">
+            <g id="volume" transform="translate(535.000000, 534.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 5.000000)">
+                        <g id="Combined-Shape-Clipped" stroke-width="1" fill="none" transform="translate(55.000000, 5.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <g id="Combined-Shape" mask="url(#mask-4)" stroke="#000000" stroke-width="15.8823529">
+                                <path d="M0.5882353,0.29801325 C19.5933282,0.29801325 35,15.7160219 35,34.7350993 C35,53.7541768 19.5933282,69.1721854 0.5882353,69.1721854" id="path-3"></path>
+                            </g>
+                        </g>
+                        <g id="Combined-Shape-Clipped" stroke-width="1" fill="none" transform="translate(55.000000, 21.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="path-5"></g>
+                            <g id="Combined-Shape" mask="url(#mask-6)" stroke="#000000" stroke-width="15.8823529">
+                                <path d="M0.5882353,0.192053 C10.8217468,0.192053 19.1176471,8.4940576 19.1176471,18.7350993 C19.1176471,28.9761411 10.8217468,37.2781457 0.5882353,37.2781457" id="path-5"></path>
+                            </g>
+                        </g>
+                        <path d="M0,21.192053 L15.8823529,21.192053 L15.8823529,58.2781457 L0,58.2781457 L0,21.192053 Z M50.2941176,0 L50.2941176,79.5405629 L21.1764706,58.3133278 L21.1764706,21.2272351 L50.2941176,0 Z" id="Combined-Shape" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

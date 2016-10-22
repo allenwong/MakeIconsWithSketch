@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="90px" viewBox="0 0 84 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>house</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-88.000000, -685.000000)">
+            <g id="house" transform="translate(85.000000, 685.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M87,39.4251203 C87,37.9552566 86.1130798,35.9655155 85.016569,34.9787139 L46.983431,0.750904084 C45.8880123,-0.234914696 44.1130798,-0.235897546 43.016569,0.750904084 L4.98343096,34.9787139 C3.88801229,35.9645326 3,37.9480606 3,39.4251203 L3,84.6763357 C3,87.6165143 5.35261379,90 8.24898933,90 L24.0010107,90 C26.8999474,90 29.25,87.6150932 29.25,84.6752091 L29.25,66.040661 C29.25,57.2218397 36.2996026,50.0727725 45,50.0727725 C53.6984848,50.0727725 60.75,57.2238496 60.75,66.040661 L60.75,84.6752091 C60.75,87.6160099 63.1026138,90 65.9989893,90 L81.7510107,90 C84.6499474,90 87,87.6178176 87,84.6763357 L87,39.4251203 Z" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

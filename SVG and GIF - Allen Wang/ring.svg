@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="90px" viewBox="0 0 82 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>ring</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-1289.000000, -685.000000)">
+            <g id="ring" transform="translate(1285.000000, 685.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <g mask="url(#mask-2)" fill="#000000">
+                    <g transform="translate(4.000000, 0.000000)">
+                        <path d="M61.0287229,13.3868521 C73.5430774,20.3908735 82,33.7554711 82,49.0909091 C82,71.6843761 63.6436747,90 41,90 C18.3563253,90 0,71.6843761 0,49.0909091 C0,33.7554711 8.45692256,20.3908735 20.9712771,13.3868521 L25.3120539,17.7051138 C13.7778823,23.4559886 5.85714286,35.3505059 5.85714286,49.0909091 C5.85714286,68.456738 21.5911359,84.1558442 41,84.1558442 C60.4088641,84.1558442 76.1428571,68.456738 76.1428571,49.0909091 C76.1428571,35.3505059 68.2221177,23.4559886 56.6879461,17.7051138 L61.0287229,13.3868521 L61.0287229,13.3868521 Z" id="Combined-Shape"></path>
+                        <path d="M50.7077567,0 L58.5714286,10.5194805 L23.4285714,10.5194805 L31.2922433,0 L50.7077567,0 L50.7077567,0 Z M41,28.0519481 L58.5714286,10.5194805 L23.4285714,10.5194805 L41,28.0519481 L41,28.0519481 Z" id="Combined-Shape-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

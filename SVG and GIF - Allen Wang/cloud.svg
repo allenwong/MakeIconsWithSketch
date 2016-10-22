@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="58px" viewBox="0 0 90 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Source-File" transform="translate(-535.000000, -399.000000)">
+            <g id="cloud" transform="translate(535.000000, 384.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="bg"></g>
+                <path d="M79.8874247,43.0804774 C85.7879157,45.2388345 90,50.9082395 90,57.5518721 L90,57.5970641 C90,66.1038707 83.1058762,73 74.6051674,73 L15.3948326,73 C6.89250135,73 0,66.0956273 0,57.5970641 L0,57.5518721 C0,50.8360575 4.2967824,45.1241021 10.2886905,43.0166358 C10.2752522,42.7291284 10.2684564,42.439843 10.2684564,42.1489362 C10.2684564,32.2665644 18.1109853,24.2553192 27.7852349,24.2553192 C31.2866686,24.2553192 34.5481546,25.3047583 37.2847101,27.1125229 C41.1963479,19.8902272 48.7303893,15 57.3825503,15 C70.0591533,15 80.3355705,25.4974937 80.3355705,38.4468085 C80.3355705,40.0330868 80.1813625,41.5825729 79.8874247,43.0804774 L79.8874247,43.0804774 Z" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
