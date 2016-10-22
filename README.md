@@ -96,6 +96,14 @@ Note: All icons published to this project are licensed under [Creative Commons Z
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/flag.gif)
 
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/setting.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/setting.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/gear.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/gear.gif)
+
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/tools.svg)
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/tools.gif)
