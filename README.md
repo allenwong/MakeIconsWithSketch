@@ -13,6 +13,7 @@ This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100
 
 ## SVG Icon & GIF Tutorial ##
 
+
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.gif)
@@ -31,11 +32,119 @@ This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100
 
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/brightness.svg)
 
-![Brightness](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/brightness.gif)
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/brightness.gif)
 
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/lightning.svg)
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/lightning.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/comment.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/comment.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/notification.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/notification.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/bell.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/bell.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/camera.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/camera 2.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/volume.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/volume.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/wifi.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/wifi.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/lock.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/lock.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/floder.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/floder.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/email.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/email.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/flag.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/flag.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/tools.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/tools.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/debates.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/debates.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/user.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/user.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/album.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/album.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/headphone.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/headphone.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/ring.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/ring.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/trash.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/trash.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/command.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/command.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/flight.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/flight.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/compass.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/compass.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/home.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/home.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/refresh.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/refresh.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/phone.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/phone.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/eye.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/eye.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/search.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/search.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/alarm clock.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/alarm clock.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/download.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/download.gif)
 
 ## License ##
 
