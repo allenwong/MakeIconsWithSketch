@@ -7,12 +7,23 @@
 
 ## Hi Community ##
 
-I am Allen Wang, a [product designer](https://dribbble.com/openallen) and currently learning Swift.
+Allen Wang again, who made [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) project in the year of begin. Long time no see, folks🙌
 
-This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100 Days of Swift](http://samvlu.com/index.html) project, after read his [Medium post](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ayz5vx6mc) I made a decision to put my every single day to write Swift, this's the final code of 30 tiny Swift projects.
+Now I made a lot of simple tutorials about how to make icons with [Sketch](https://sketchapp.com/). Sketch is a great and lightweight tool to quick start make icons.
+
+## Open Design ##
+Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future.
+
+Requirement:
+90*90 Black Solid SVG Icon, refer to The Noun Project guideline.
+
+320*320 GIF Tutorial, I made with [screenFlow](http://screenflow.en.softonic.com/mac) and [Gifrocket](http://www.gifrocket.com/).
+
+(Option) Add the MakeIconsWithSketch [watermark](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Video%20to%20GIF%20watermark.png) in your gif would be perfect.
+
+Note: All icons published to this project are licensed under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## SVG Icon & GIF Tutorial ##
-
 
 ![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/heart.svg)
 
@@ -146,9 +157,12 @@ This project was totally inspired by [Sam Lu](https://twitter.com/samvlu)'s [100
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/download.gif)
 
+## Special Thanks ##
+Awesome Icon Designer [Kyle Adams](https://twitter.com/ItsKyleAdams) and his daily #makeicons with Illustrator [tutorials](https://www.youtube.com/user/kyleadamsdesign).
+
 ## License ##
 
-[Make Icons With Sketch](https://github.com/allenwong/MakeIconsWithSketch) is under the MIT license.
+ All icons published on this [Make Icons With Sketch](https://github.com/allenwong/MakeIconsWithSketch) are licensed under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) which means you can copy, modify, distribute and use the icons for free, including commercial purposes, without asking permission from or providing attribution to the designer.
 
 ## Reach me ##
 
