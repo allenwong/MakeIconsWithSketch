@@ -17,6 +17,7 @@ Now I made a lot of simple tutorials about how to make icons with [Sketch](https
 Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future.
 
 Requirement:
+
 90*90 Black Solid SVG Icon, refer to The Noun Project guideline.
 
 320*320 GIF Tutorial, I made with [screenFlow](http://screenflow.en.softonic.com/mac) and [Gifrocket](http://www.gifrocket.com/).
