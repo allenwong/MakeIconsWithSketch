@@ -9,16 +9,16 @@
 
 Allen Wang again, who made [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) project in the year of begin. Long time no see, folks🙌
 
-I have posted some simple gif tutorials about how to make icons with [Sketch](https://sketchapp.com/) on Twitter and Weibo one month ago, got a lot of wonderful feedbacks, particularly from developers, they were really following my steps and start to use [Sketch](https://sketchapp.com/), they don't need always to rely on designers.
+I have posted some simple gif tutorials about how to make icons with [Sketch](https://sketchapp.com/) on Twitter and Weibo one month ago, got a lot of wonderful feedbacks, almost 270K views and 380+ people get involved, particularly from developers, they were really following my steps and start to use [Sketch](https://sketchapp.com/), they don't need always to rely on designers.
 
-The purpose to open source this project is hopefully can invite more designers join, create more .gif tutorials and .svg icons for anyone can learn and download.
+The purpose to open source this project is hopefully can invite more designers join, create more gif tutorials and svg icons for anyone can learn and download.
 
 [Sketch source file](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Icon%20set.sketch) was attached.
 
-[Check out the video on Vimeo](https://vimeo.com/188477630).
+[30+ gif tutorials I made so far, aggregated into one video on Vimeo](https://vimeo.com/188477630).
 
 ## Open Design ##
-Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future. Believe me, it was a lot of fun.
+Welcome anyone who have ability to make svg icon and gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future. Believe me, it was a lot of fun.
 
 ### Requirement(Pull request) ###
 
