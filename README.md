@@ -15,6 +15,9 @@ The purpose to open source this project is hopefully can invite more designers j
 
 [Sketch source file](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Icon%20set.sketch) was attached.
 
+<iframe src="https://player.vimeo.com/video/188477630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/188477630">Make Icons With Sketch</a> from <a href="https://vimeo.com/user4084139">Allen Wang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## Open Design ##
 Welcome anyone who have ability to make .svg icon and .gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future. Believe me, it was a lot of fun.
 
