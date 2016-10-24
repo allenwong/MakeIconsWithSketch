@@ -17,6 +17,8 @@ The purpose to open source this project is hopefully can invite more designers j
 
 [30+ gif tutorials I made so far, aggregated into one video on Vimeo](https://vimeo.com/188477630).
 
+[🇨🇳简体中文文章点击这里](http://www.jianshu.com/p/e3de4fbd105f).
+
 ## Open Design ##
 Welcome anyone who have ability to make svg icon and gif tutorial, love to figure out what's the easiest way to draw a complex icon, you are definitely the one could help push this project to a big future. Believe me, it was a lot of fun.
 
