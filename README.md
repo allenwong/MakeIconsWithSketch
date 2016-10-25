@@ -15,7 +15,7 @@ The purpose to open source this project is hopefully can invite more designers j
 
 [Sketch source file](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Icon%20set.sketch) was attached.
 
-[30+ gif tutorials I made so far, aggregated into one video on Vimeo](https://vimeo.com/188477630).
+[![30+ gif tutorials I made so far, aggregated into one video on Vimeo](https://github.com/allenwong/MakeIconsWithSketch/blob/master/Video%20Thumbnail.png)](https://vimeo.com/188477630)
 
 [🇨🇳简体中文文章点击这里](http://www.jianshu.com/p/e3de4fbd105f).
 
