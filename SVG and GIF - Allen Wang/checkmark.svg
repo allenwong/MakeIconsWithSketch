@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="66px" viewBox="0 0 90 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -11.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <path d="M15.2386331,34.8774021 C11.7530455,31.4151603 6.09753291,31.4101074 2.61245628,34.8718417 C-0.873386612,38.3343371 -0.870114064,43.9486457 2.61805421,47.413451 L29.1130137,73.9425937 C31.9025431,76.7357221 36.433698,76.7454081 39.2307671,73.9670731 L87.3844343,26.1359292 C90.8679433,22.675752 90.8741999,17.0569571 87.3891233,13.5952227 C83.9032804,10.1327273 78.2515217,10.1355737 74.7638554,13.5998803 L34.2907467,53.8019086 L15.2386331,34.8774021 Z" id="Combined-Shape" fill="#000000" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
