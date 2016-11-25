@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/project%20logo.png)
 
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/allenwong/30DaysofSwift)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/allenwong/MakeIconsWithSketch)
 [![Twitter Follow](https://img.shields.io/twitter/follow/creativewang.svg?style=social)](https://twitter.com/creativewang)
 
 ## Hi Community ##
