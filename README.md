@@ -204,6 +204,14 @@ Note: All icons published to this project are licensed under [Creative Commons Z
 
 ![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/snowflake.gif)
 
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/christmas tree.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/christmas tree.gif)
+
+![Alt text](https://cdn.rawgit.com/allenwong/MakeIconsWithSketch/master/SVG%20and%20GIF%20-%20Allen%20Wang/locate.svg)
+
+![Alt text](https://github.com/allenwong/MakeIconsWithSketch/blob/master/SVG%20and%20GIF%20-%20Allen%20Wang/locate.gif)
+
 
 ## Special Thanks ##
 Awesome Icon Designer [Kyle Adams](https://twitter.com/ItsKyleAdams) and his daily #makeicons with Illustrator [tutorials](https://www.youtube.com/user/kyleadamsdesign).
